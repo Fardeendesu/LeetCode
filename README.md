@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fardeendesu/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Fardeendesu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Fardeendesu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fardeendesu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Fardeendesu/LeetCode/tree/master/1306-jump-game-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Fardeendesu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fardeendesu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2540-minimum-common-value](https://github.com/Fardeendesu/LeetCode/tree/master/2540-minimum-common-value) |
