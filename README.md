@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Fardeendesu/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Fardeendesu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/Fardeendesu/LeetCode/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/Fardeendesu/LeetCode/tree/master/0127-word-ladder) |
 | [0420-strong-password-checker](https://github.com/Fardeendesu/LeetCode/tree/master/0420-strong-password-checker) |
 | [1768-merge-strings-alternately](https://github.com/Fardeendesu/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fardeendesu/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fardeendesu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Fardeendesu/LeetCode/tree/master/0127-word-ladder) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Fardeendesu/LeetCode/tree/master/0127-word-ladder) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 ## Union-Find
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Fardeendesu/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Fardeendesu/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Fardeendesu/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
