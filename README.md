@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fardeendesu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fardeendesu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Queue
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fardeendesu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2540-minimum-common-value](https://github.com/Fardeendesu/LeetCode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3161-block-placement-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+| [3161-block-placement-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+| [3161-block-placement-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3161-block-placement-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+| [3161-block-placement-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3161-block-placement-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
