@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fardeendesu/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/Fardeendesu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Fardeendesu/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fardeendesu/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fardeendesu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Fardeendesu/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Fardeendesu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Fardeendesu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 ## Ordered Set
 |  |
