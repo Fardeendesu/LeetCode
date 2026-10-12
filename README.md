@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fardeendesu/LeetCode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Fardeendesu/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
