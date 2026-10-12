@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Fardeendesu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+## Segment Tree
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 <!---LeetCode Topics End-->
