@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Fardeendesu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fardeendesu/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Fardeendesu/LeetCode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Fardeendesu/LeetCode/tree/master/1340-jump-game-v) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Fardeendesu/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2540-minimum-common-value](https://github.com/Fardeendesu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Fardeendesu/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Fardeendesu/LeetCode/tree/master/0097-interleaving-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Fardeendesu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1340-jump-game-v](https://github.com/Fardeendesu/LeetCode/tree/master/1340-jump-game-v) |
 ## Memoization
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fardeendesu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/Fardeendesu/LeetCode/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
