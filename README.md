@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Fardeendesu/LeetCode/tree/master/0420-strong-password-checker) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Fardeendesu/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
