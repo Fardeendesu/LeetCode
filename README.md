@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fardeendesu/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fardeendesu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Fardeendesu/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fardeendesu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Queue
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Fardeendesu/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Fardeendesu/LeetCode/tree/master/0263-ugly-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Fardeendesu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Fardeendesu/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
