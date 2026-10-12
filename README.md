@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fardeendesu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0420-strong-password-checker](https://github.com/Fardeendesu/LeetCode/tree/master/0420-strong-password-checker) |
+| [1768-merge-strings-alternately](https://github.com/Fardeendesu/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Fardeendesu/LeetCode/tree/master/0263-ugly-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Fardeendesu/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
