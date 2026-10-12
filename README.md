@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fardeendesu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Fardeendesu/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 ## Queue
 |  |
 | ------- |
@@ -76,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fardeendesu/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+## Hash Table
+|  |
+| ------- |
+| [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+## Union-Find
+|  |
+| ------- |
+| [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
+## Ordered Set
+|  |
+| ------- |
+| [2612-minimum-reverse-operations](https://github.com/Fardeendesu/LeetCode/tree/master/2612-minimum-reverse-operations) |
 <!---LeetCode Topics End-->
